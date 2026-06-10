@@ -22,24 +22,6 @@ The models are suitable for:
 
 ---
 
-## Repository Structure
-
-```text
-├── STL/
-│   ├── Rotor_Assembly.stl
-│   ├── Blade.stl
-│   └── Blade_Mold.stl
-│
-├── STEP/
-│   ├── Rotor_Assembly.step
-│   ├── Blade.step
-│   └── Blade_Mold.step
-│
-└── README.md
-```
-
----
-
 ## Model Description
 
 ### Rotor Assembly
